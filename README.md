@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Souvik.
-- 👀 I’m an Embedded Software Development Engineer by profession, with 2.5 years of experience in developing System Software on Embedded Linux for SCADA Gateway devices.
-- 🌱 I’m currently learning Linux Device Drivers and board bring up.
+- 👀 I’m an Embedded Software Development Engineer by profession, with 4 years of experience in developing System Software on Embedded Linux for SCADA Gateway devices used Electrical Substations and Baseband Waveform Monitors in Video domain. 
+- 🌱 I’m currently learning OpenGL
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on my email - souvikroyofficial10@gmail.com
 
